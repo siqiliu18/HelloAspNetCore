@@ -6,3 +6,5 @@ Practice containerizing API calls
 3. Basic Get API example, please look into the file
 4. For basic POST API, please look at UploadSingleFile.cs
 5. Call API from POSTMAN
+
+![Image of Yaktocat](https://github.com/siqiliu18/HelloAspNetCore/blob/dev/Properties/Screen%20Shot%202020-04-24%20at%206.14.10%20PM.png)
