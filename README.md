@@ -7,4 +7,4 @@ Practice containerizing API calls
 4. For basic POST API, please look at UploadSingleFile.cs
 5. Call API from POSTMAN
 
-![Image of Yaktocat](https://github.com/siqiliu18/HelloAspNetCore/blob/dev/Properties/Screen%20Shot%202020-04-24%20at%206.14.10%20PM.png)
+![image](https://github.com/siqiliu18/HelloAspNetCore/blob/dev/Properties/postApiCall.png)
